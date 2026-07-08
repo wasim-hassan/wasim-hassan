@@ -34,8 +34,6 @@
 
 ###
 
-<p align="left">Wasim Hassan is into Cloud infrastructure and DevOps. He mostly working with stuff like Docker, Kubernetes, and Terraform, trying to make setups and deployments easier and faster. His GitHub mostly contains small projects and experiments where he’s figuring things out and building simple automation.
-
-He likes experimental learning - break & fix things and also check out new technology time to time, especially how AI might help make DevOps better. His focus is just on doing practical things that actually work and improving bit by bit.</p>
+<p align="left">I'm a systems support engineer focused on Linux administration, infrastructure reliability, and network triage. I take a terminal-first approach to troubleshooting, using Bash and Python to automate daily infrastructure checks, get to the root cause of network bottlenecks, and write clean operational runbooks. I focus on keeping backend infrastructure running smoothly.</p>
 
 ###
